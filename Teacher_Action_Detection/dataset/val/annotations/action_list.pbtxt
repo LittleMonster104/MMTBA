@@ -1,0 +1,24 @@
+item {
+  name: "Pointing Gesture"
+  id: 1
+}
+item {
+  name: "Beat Gesture"
+  id: 2
+}
+item {
+  name: "Descriptive Gesture"
+  id: 3
+}
+item {
+  name: "Writing Gesture"
+  id: 4
+}
+item {
+  name: "Interactive Gesture"
+  id: 5
+}
+item {
+  name: "Normal"
+  id: 6
+}

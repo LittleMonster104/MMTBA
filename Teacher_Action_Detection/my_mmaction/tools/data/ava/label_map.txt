@@ -1,0 +1,6 @@
+1: Pointing
+2: Beat Gesture
+3: Descriptive Gesture
+4: Writing
+5: Interacting
+6: Normal
